@@ -1,4 +1,4 @@
-## Boas vindas ao meu perfíl 👑
+## Bem vindos ao meu perfíl 👑
 
 -Meu nome é Maria Rita
 
