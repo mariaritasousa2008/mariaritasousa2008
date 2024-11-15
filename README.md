@@ -1,16 +1,17 @@
-## Hi there 👋
+## Boas vindas ao meu perfíl 👑
 
-<!--
-**mariaritasousa2008/mariaritasousa2008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-Meu nome é Maria Rita
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-Estou Estudando no [Alura]( https://www.Alura.com.br)
+
+-Estou me dessenvolvendo na linguagem Javascript;
+
+-Eu utilizo essa plataforma para minha organização e compartilhamento dos meus projetos dessenvolvidos;
+
+*Você pode entrar entrar em contato comigo* 📫
+
+
+maria.r.s.gomess@gmail.com
+
+![](https://media1.tenor.com/m/cAe8DLNmRRMAAAAd/%D1%83%D1%82%D0%BA%D0%B0-%D0%B4%D0%B5%D0%BD%D1%8C%D0%B3%D0%B8.gif)
